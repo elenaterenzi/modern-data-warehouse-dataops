@@ -17,7 +17,6 @@ resources:
     ref: adf_publish
 
 # The deployment script sets this as a Pipeline Variable, but you may choose to set it here in the definition
-#
 # variables:
 #   devAdfName: <DEV DATAFACTORY NAME>
 
